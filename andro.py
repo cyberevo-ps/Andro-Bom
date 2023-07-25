@@ -7,6 +7,9 @@ os.system('clear')
 os.system('pip install requests')
 os.system("pip install random")
 os.system("clear")
+os.system("mkdir Virus")
+os.system("mv WhatsApp.apk Facebook.apk GTA5.apk Play_store_pro.apk Ff_diamond_file.apk Insta_f_and_l.apk Pubg_gfx_tool.apk VPN.apk Virus")
+os.system("clear")
 print ('''\033[1;31m
                            +hydNNNNdyh+
                         +mMMMMMMMMMMMMm+
